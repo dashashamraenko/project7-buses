@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+packages/
+*.cache
+*.log
+*.zip
+*.tmp
+*.bak
+*.ide
+
