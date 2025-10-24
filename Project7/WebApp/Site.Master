@@ -50,6 +50,11 @@
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/">Домашняя страница</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/About">Информация</a></li>
                         <li class="nav-item"><a class="nav-link" runat="server" href="~/Contact">Связаться с нами</a></li>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Students.aspx">Students</a>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/StudentsAdd.aspx">Add Student</a>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Courses.aspx">Courses</a>
+                        <li class="nav-item"><a class="nav-link" runat="server" href="~/Enrollments.aspx">Enrollments</a>
+
                     </ul>
                 </div>
             </div>
