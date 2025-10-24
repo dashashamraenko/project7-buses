@@ -64,27 +64,6 @@
 <img width="1357" height="484" alt="image" src="https://github.com/user-attachments/assets/d78ab5de-3682-4990-a10e-8109a6bc50a2" />
 <img width="708" height="261" alt="image" src="https://github.com/user-attachments/assets/e87a3bb2-2f91-4b03-9c61-d7855d04f2ef" />
 
-# project7-buses
-
-Учебный проект на базе **Contoso School**: веб-приложение на ASP.NET Web Forms + EF (Database First) и консольное приложение на C# (ConsoleApp).
-
-## Состав решения
-- **WebApp** — ASP.NET Web Forms + Entity Framework (DB First) на учебной БД `School.mdf`.  
-  Реализовано: `Students.aspx`, `StudentsAdd.aspx`, `Courses.aspx`, `Enrollments.aspx`.
-- **ConsoleApp** — консольное приложение на C# / .NET 8.0, работа с рейсами автобусов и пассажирами.
-
----
-
-## Запуск Web (быстрый старт)
-**Требования:** Visual Studio 2022, .NET Framework 4.8, LocalDB `(MSSQLLocalDB)`.
-
-1. Откройте `Project7.sln` в Visual Studio.  
-2. **Build → Rebuild Solution**.  
-3. Запустите проект **WebApp** (F5).  
-4. Навигация из меню: **Students**, **Add Student**, **Courses**, **Enrollments**.
-
----
-
 ## Запуск ConsoleApp (быстрый старт)
 **Требования:** Visual Studio 2022 / 2023, .NET 8.0.
 
